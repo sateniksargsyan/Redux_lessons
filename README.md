@@ -1,6 +1,6 @@
 # Redux lessons
  
-## *Store*  for global usage
+## **Store**  for global usage
 
 * Reducer is a pure funcion. There are no side effects
 * Action
@@ -14,7 +14,7 @@
 
 #### createStore function
 
-for then *thunk*
+for then **thunk**
 
 
 
