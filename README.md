@@ -1,4 +1,7 @@
 # Redux lessons
+
+
+### npm install --save redux
  
 ## **Store**  for global usage
 
@@ -14,7 +17,7 @@
 
 #### createStore function
 
-for then **thunk**
+for future **thunk**
 
 
 
